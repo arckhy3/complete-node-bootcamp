@@ -11,5 +11,8 @@
   },
   "dependencies": {
     "superagent": "^10.3.0"
+  },
+  "devDependencies": {
+    "@ljharb/tsconfig": "^0.3.2"
   }
 }
